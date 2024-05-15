@@ -10,25 +10,21 @@ To develop a python control code to move the mobilerobot along the predefined pa
 ## Procedure
 
 ## Step1:
-<br/>
 Use from robomaster import robot
 
 ## Step2:
-<br/>
 Choose the x,y,z - axis movement distance(meters).
 
 ## Step3:
-<br/>
 Give ep_chassis.move to move straight.
 
 ## Step4:
-<br/>
 Give time.sleep() for a break.
 
 ## Step5:
-<br/>
 Give ep_chassis.drive_speed to have a circular movement.
 
+<br/>
 
 ## Program
 ```python
@@ -112,31 +108,24 @@ if _name_ == '_main_':
 
 ![Screenshot 2024-05-15 114027](https://github.com/Prakash-Chandran/mobilerobot-openloopcontrol/assets/147120899/2c25bc13-3201-45a4-95c4-b5d2ee5b8ca6)
 
-![Screenshot 2024-05-15 114046](https://github.com/Prakash-Chandran/mobilerobot-openloopcontrol/assets/147120899/be3769e6-05bc-4f7e-9efa-89404869b411)
+![Screenshot 2024-05-15 132336](https://github.com/Prakash-Chandran/mobilerobot-openloopcontrol/assets/147120899/58e936de-e726-46a8-ad0b-9fdec862e79d)
 
 ![Screenshot 2024-05-15 114100](https://github.com/Prakash-Chandran/mobilerobot-openloopcontrol/assets/147120899/707b55c7-0228-4f14-bcbd-a24b4aadfba3)
 
-![Screenshot 2024-05-15 114117](https://github.com/Prakash-Chandran/mobilerobot-openloopcontrol/assets/147120899/617db5e7-2f47-4c37-8563-d7d8dfc3c84e)
+![Screenshot 2024-05-15 114117](https://github.com/Prakash-Chandran/mobilerobot-openloopcontrol/assets/147120899/e525a6a8-df4d-447b-b979-677b5dc67060)
 
-<br/>
-<br/>
-<br/>
 <br/>
 
 ## MobileRobot Movement Video:
 
 Upload your video in Youtube and paste your video-id here
 
-[![<iframe width="560" height="315" src="https://www.youtube.com/embed/SwRday7fcR0?si=1dEI_vaTHIl6oeTm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)]]
+[![Mobile Robotics - Control of Mobile Robotics]](https://youtu.be/SwRday7fcR0?si=uR6cvcIC7TwTD5s4)
 
-<br/>
-<br/>
-<br/>
 <br/>
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
-
 
 <br/>
 <br/>
